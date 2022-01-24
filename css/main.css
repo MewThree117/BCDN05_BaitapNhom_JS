@@ -54,7 +54,7 @@ section {
   color: #0984e3;
 }
 
-.btn {
+.shopie__btn {
   margin-top: 1rem;
   display: inline-block;
   border-radius: 0.5rem;
@@ -65,7 +65,7 @@ section {
   background: #0984e3;
 }
 
-.btn:hover {
+.shopie__btn:hover {
   background: #333;
 }
 
@@ -469,6 +469,56 @@ section {
 
 .shopping-cart .cart-total h3 span {
   color: #0984e3;
+}
+
+.administer .btn {
+  margin: 0;
+}
+
+.administer .administer__tab {
+  -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+}
+
+.administer .administer__nav-item {
+  font-size: 1.7rem;
+}
+
+.administer #btnThemSP {
+  padding: 0.7rem 1.5rem;
+  font-size: 1.5rem;
+}
+
+.administer .form-control.administer__input-search {
+  font-size: 1.7rem;
+}
+
+.administer .administer__search {
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.administer .administer__text {
+  font-size: 1.7rem;
+}
+
+.administer .administer__modal-title {
+  font-size: 2.2rem;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.administer .administer__modal-close {
+  font-size: 3rem;
+}
+
+.administer .form-group {
+  font-size: 1.5rem;
+}
+
+.administer .form-control {
+  font-size: 1.4rem;
 }
 
 .quick-links {

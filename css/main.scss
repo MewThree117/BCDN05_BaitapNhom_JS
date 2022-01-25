@@ -489,10 +489,35 @@ section {
 
     .form-group {
         font-size: 1.5rem;
+
+        .spanForm {
+            color: #e74c3c;
+            font-size: 1.4rem;
+        }
     }
 
     .form-control {
         font-size: 1.4rem;
+    }
+
+    #tblDanhSachSP {
+        td {
+            vertical-align: middle;
+        }
+
+        img {
+            width: 4rem;
+        }
+        
+        .btn {
+            font-size: 1.7rem;
+        }
+    }
+
+    #myModal {
+        .btn {
+            font-size: 1.7rem;
+        }
     }
 }
 

@@ -517,8 +517,29 @@ section {
   font-size: 1.5rem;
 }
 
+.administer .form-group .spanForm {
+  color: #e74c3c;
+  font-size: 1.4rem;
+}
+
 .administer .form-control {
   font-size: 1.4rem;
+}
+
+.administer #tblDanhSachSP td {
+  vertical-align: middle;
+}
+
+.administer #tblDanhSachSP img {
+  width: 4rem;
+}
+
+.administer #tblDanhSachSP .btn {
+  font-size: 1.7rem;
+}
+
+.administer #myModal .btn {
+  font-size: 1.7rem;
 }
 
 .quick-links {
